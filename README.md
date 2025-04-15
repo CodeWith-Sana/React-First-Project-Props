@@ -31,7 +31,13 @@ This is simple react project , to show how to use props to pass products data in
             ->ProductsData.jsx
             ->Navbar.jsx
             
-            
+
+# Wanna Clone the Repo
+To clone a repository, 
+use the command git clone <repository_url> in your terminal. 
+This creates a full local copy of the repository, including its entire history and all files. 
+
+example :   "git clone https://github.com/CodeWith-Sana/React-First-Project-Props"
     
 
 
